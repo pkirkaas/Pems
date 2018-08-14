@@ -1,0 +1,27 @@
+;Project file for PEMS.hlp
+[OPTIONS]
+TITLE=KDC Project Expenditure Management System
+COPYRIGHT= Copyright Paul Kirkaas/KDC.  All rights reserved.  
+CONTENTS = contents
+ERRORLOG = c:\local\access\helperr.txt
+BMROOT = c:\local\access
+
+[FILES]
+PEMS.rtf
+
+[MAP]
+CONTENTS 1
+DATA_ENTRY 2
+REPORTS 3
+DATAENTRY_STEP 4
+DATAENTRY_TEXTBOXES 5
+OVERVIEW 6
+COMBOBOXCHOICE 7
+COMMANDBUTTON 8
+DETAILS 9
+PROJENTRY 10
+CLAIMENTRY 11
+CLMSELMASK 12
+DISBENTRY 13
+ADMIN 14
+REPORTTYPES 15
